@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884159945147",
+    "project_id": "pnpentry-24e7f",
+    "storage_bucket": "pnpentry-24e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884159945147:android:8bdd3868f5d2fbabb10c9e",
+        "android_client_info": {
+          "package_name": "com.example.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884159945147-n9roqgbh5a1k7cpvp14rkif2m2ejfuas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX4UpcRhjjTLsKKrbo5R-f79u2P8zypJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884159945147-n9roqgbh5a1k7cpvp14rkif2m2ejfuas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
